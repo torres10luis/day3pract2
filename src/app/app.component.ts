@@ -1,7 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 
+interface {
 
+}
 
 
 
@@ -16,5 +18,5 @@ export class AppComponent implements OnInit {
 
 
 
-  
+
 }
